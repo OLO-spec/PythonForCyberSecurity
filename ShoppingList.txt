@@ -3,6 +3,7 @@ Bread
 Bananas
 Eggs
 Potato chips
-Fudge
-Ice cream
 Pasta
+Corn
+Cake Mix
+Ice cream
