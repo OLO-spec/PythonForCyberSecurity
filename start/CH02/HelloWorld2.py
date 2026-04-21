@@ -5,3 +5,11 @@
 # Suggestion, build out 1 line at a time
 # Once multiple print statemetns exist, put a breakpoint at first print line
 # Then walk through as an example of "debugging"
+
+#4/20/26
+
+#Ask user for their name
+user_name = input("What is your name? ")
+
+#Print hello and their name
+print("Hello {0}".format(user_name))
