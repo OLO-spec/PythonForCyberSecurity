@@ -4,9 +4,17 @@
 import os
 #open file for writing
 dir_path =os.path.dirname(os.path.realpath(__file__))
-f=open(dir_path + "/newtextfile.txt", "r")
+
+f=open(dir_path + "/hackme.txt", "r")
+
+#print heading message
+print("Here is someone to hack - information")
+print("------------------")
+
 #read the file and print to screen
+
 contents = f.read()
+print(contents)
 
 #closing the file
 f.close()
